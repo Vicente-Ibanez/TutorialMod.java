@@ -1,0 +1,18 @@
+{
+  "item.tutorialmod.black_opal": "Black Opal",
+  "creativemodetab.tutorial_tab": "Tutorial tab",
+  "item.tutorialmod.mod_skeleton_egg": "Mod Skeleton Egg",
+  "item.tutorialmod.mod_zombie_egg": "Mod Zombie Egg",
+  "item.tutorialmod.mod_zombie_miner_egg": "Mod Zombie Miner Egg",
+  "item.tutorialmod.mod_creeper_egg": "Mod Creeper Egg",
+  "item.tutorialmod.mod_snow_golem_egg": "Mod Snow Golem Egg",
+  "item.tutorialmod.mod_phantom_egg": "Mod Phantom Egg",
+  "item.tutorialmod.mod_witch_egg": "Mod Witch Egg",
+  "item.tutorialmod.mod_gold_golem_egg": "Mod Gold Golem Egg",
+  "item.tutorialmod.mod_iron_golem_egg": "Mod Iron Golem Egg",
+  "item.tutorialmod.ice_arrow": "Ice Arrow",
+  "enchantment.tutorialmod.bow_abilities": "Bow Abilities",
+  "enchantment.tutorialmod.shove_abilities": "Shovel Abilities",
+  "event.minecraft.modnight": "NIGHT",
+  "event.minecraft.modnight.mod_nighters.remaining": "RAID"
+}
